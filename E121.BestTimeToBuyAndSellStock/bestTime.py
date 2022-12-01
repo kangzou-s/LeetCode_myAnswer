@@ -1,7 +1,8 @@
 import sys
 from typing import List
 import numpy as np
-
+# 解析可以参考  https://labuladong.github.io/algo/3/28/96/
+# 以及 https://www.jiuzhang.com/problem/best-time-to-buy-and-sell-stock/
 
 # 简单的遍历，算法复杂度为o（n^2）, 时间过不了
 # class Solution:
